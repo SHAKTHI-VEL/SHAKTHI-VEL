@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ExpressJS<br>🤝 I’m looking for help with Backend<br>🌱 I’m currently learning Python<br>
+🔭 I’m currently working on ExpressJS<br>🤝 I’m looking for help with Backend<br>🌱 I’m currently learning Spring Boot<br>
 
 
 ## 🌐 Socials:
