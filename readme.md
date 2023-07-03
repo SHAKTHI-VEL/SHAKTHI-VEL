@@ -5,7 +5,7 @@ Backend Developer
 -----------------
 
 *   🌍  I'm based in India
-*   🖥️  See my portfolio at [Shakthivel](http://shakthivel.netlify.app/)
+*   🖥️  See my portfolio at [Shakthivel](https://shakthivel.vercel.app/)
 *   ✉️  You can contact me at [shakthivel28203@gmail.com](mailto:shakthivel28203@gmail.com)
 *   🧠  I'm learning React
 *   🤝  I'm open to collaborating on Express Project
