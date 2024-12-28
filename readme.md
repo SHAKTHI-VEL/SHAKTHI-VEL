@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Shakthivel <br><br>- 🌍 I'm based in India<br>- 🖥️I'm a backend developer<br>- 🧠 I'm currently learning Django<br>- 🤝Open to collabrate in Express and Backend Projects</p>
+<p align="left">I'm Shakthivel <br><br>- 🌍 I'm based in India<br>- 🖥️I'm a backend developer<br>- 🤝Open to collabrate in Express and Backend Projects</p>
 
 ###
 
@@ -54,8 +54,6 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
