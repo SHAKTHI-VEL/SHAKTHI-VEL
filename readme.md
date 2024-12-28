@@ -92,11 +92,9 @@
 
 ###
 
+![SHAKTHI-VEL's Stats](https://github-readme-stats.vercel.app/api?username=SHAKTHI-VEL&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
+![SHAKTHI-VEL's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SHAKTHI-VEL&theme=chartreuse-dark&hide_border=true)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHAKTHI-VEL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SHAKTHI-VEL&locale=en&hide_title=false&layout=compact&card_width=320&theme=dracula&hide_border=true&order=2" height="" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=SHAKTHI-VEL&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAKTHI-VEL&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAKTHI-VEL&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
-###
