@@ -1,99 +1,89 @@
-![github-header-image (1)](https://github.com/user-attachments/assets/265d7b43-6dc3-4048-89cd-fd6b81ecc16b)
+# 👋 Hi, I'm Shakthivel Arumugam  
 
-###
+💻 **Aspiring Software Engineer** | 🚀 Passionate about **Backend Development, Cloud, and AI/ML**  
+📍 Mumbai, India  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakthivel2802/) 
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/SHAKTHI-VEL) 
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:shakthivel28203@gmail.com)  
 
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/shakthivel2802/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/shakthivel2802" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="mailto:shakthivel28203@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+## 🛠 Technical Skills  
 
-###
+- **Languages:** C++, JavaScript, Dart, Python, Java  
+- **Frameworks & Libraries:** Express.js, Flutter, React, Bootstrap  
+- **Databases:** MongoDB, PostgreSQL, Redis  
+- **Tools & Platforms:** Docker, Git, AWS (S3, EC2, SQS, ECS)  
+- **Operating Systems:** Linux, Windows  
 
-<h1 align="center">Hello Folks 👋</h1>
+---
 
-###
+## 💼 Experience  
 
-<h3 align="left">👩‍💻  About Me</h3>
+### **Back-End Intern @ Semi Hyphen** *(Jun 2024 – Aug 2024, Remote)*  
+- Automated recruitment operations with **Express.js** and **MongoDB**, creating dashboards for admins.  
+- Optimized NoSQL queries → **40% faster** data retrieval.  
+- Secured APIs with **JWT-based authentication**.  
 
-###
+---
 
-<p align="left">I'm Shakthivel <br><br>- 🌍 I'm based in India<br>- 🖥️I'm a backend developer<br>- 🤝Open to collabrate in Express and Backend Projects</p>
+## 🚀 Projects  
 
-###
+### [HLS Video Processing Pipeline](https://github.com/SHAKTHI-VEL/HLS-Video-Processing-Pipeline)  
+*Java, Python, Docker, AWS (S3, SQS, EC2, ECS)*  
+- Built a **scalable event-driven HLS video pipeline**.  
+- Automated encoding with a **Java consumer** triggering containerized **FFmpeg** jobs.  
+- Enhanced fault tolerance & system performance.  
 
-<h3 align="left">🛠 Language</h3>
+---
 
-###
+### [Shakti-News](https://github.com/SHAKTHI-VEL/SHAKTHI_NEWS)  
+*Flutter, Express.js, MongoDB, Redis*  
+- Developed a **mobile app** for offline newspaper subscriptions.  
+- Integrated **Bloc state management** for scalability & responsiveness.  
+- Boosted app performance by **6%** with Redis caching & MongoDB aggregation.  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-</div>
+---
 
-###
+### [Examace](https://github.com/SHAKTHI-VEL/Examace)  
+*Flutter, Flask, FAISS, LangChain, Supabase*  
+- Built a **RAG-powered learning app** for engineering students.  
+- Implemented **FAISS vector search** for semantic retrieval.  
+- Optimized LLM-based Q&A → faster, context-accurate answers.  
 
-<h3 align="left">🧩 Framework</h3>
+---
 
-###
+### [AquaTrace](https://play.google.com/store/apps/details?id=com.sidesshmore.aquatrace)  
+*Flutter, PostgreSQL, Express.js, Firebase*  
+- Mobile app to track & analyze **individual water footprint**.  
+- Gamified experience with a **leaderboard system**.  
+- 500+ downloads on Android Play Store. [[GitHub](https://github.com/sidesshmore/AquaTrace/commits/main?author=SHAKTHI-VEL)]  
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-</div>
+---
 
-###
+## 🏆 Achievements  
 
-<h3 align="left">🛢 Database</h3>
+- 🥉 **3rd place** in MLSC Coherence 1.0 Hackathon (AI/ML domain).  
+- ⭐ **3-star** on CodeChef (Peak rating: 1608, Top 20k globally).  
+- 📱 AquaTrace app successfully launched → 500+ downloads.  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
+## 🤝 Volunteering  
 
-###
+### [SIESGST ARENA – Problem Setter](https://drive.google.com/file/d/1llRwWYbp8iKX9VcPaBz9uK5yXbE14Uzq/view) *(Jul 2022 – Jun 2023)*  
+- Authored & tested **competitive programming problems**.  
+- Curated sets for **BUG4EVER & TuringCup** (national-level contests).  
+- Reviewed and validated problem statements & test cases.  
 
-<h3 align="left">🗄️ Backend as a service</h3>
+---
 
-###
+## 📚 Education  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="40" alt="appwrite logo"  />
-</div>
+- 🎓 **B.E. in Artificial Intelligence & Data Science** — University of Mumbai *(2021–2025, CGPA: 9.02)*  
+- 📖 **HSC (81.67%)** — St. Anne’s Junior College, Mumbai  
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-![SHAKTHI-VEL's Stats](https://github-readme-stats.vercel.app/api?username=SHAKTHI-VEL&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
-![SHAKTHI-VEL's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SHAKTHI-VEL&theme=chartreuse-dark&hide_border=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAKTHI-VEL&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact"/>
-
-
+✨ Always curious about **system design, distributed systems, and AI applications**.  
