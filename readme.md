@@ -1,89 +1,98 @@
-# 👋 Hi, I'm Shakthivel Arumugam  
+# Hi, I'm Shakthivel Arumugam 👋
 
-💻 **Aspiring Software Engineer** | 🚀 Passionate about **Backend Development, Cloud, and AI/ML**  
-📍 Mumbai, India  
+**Cloud & Platform Engineer** | AWS • Kubernetes • GitOps • Observability
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakthivel2802/) 
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/SHAKTHI-VEL) 
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:shakthivel28203@gmail.com)  
-
----
-
-## 🛠 Technical Skills  
-
-- **Languages:** C++, JavaScript, Dart, Python, Java  
-- **Frameworks & Libraries:** Express.js, Flutter, React, Bootstrap  
-- **Databases:** MongoDB, PostgreSQL, Redis  
-- **Tools & Platforms:** Docker, Git, AWS (S3, EC2, SQS, ECS)  
-- **Operating Systems:** Linux, Windows  
+📍 Mumbai, India
+📫 [shakthivel28203@gmail.com](mailto:shakthivel28203@gmail.com)
+🔗 [linkedin.com/in/shakthivel2802](https://linkedin.com/in/shakthivel2802)
 
 ---
 
-## 💼 Experience  
+## 🚀 About Me
 
-### **Back-End Intern @ Semi Hyphen** *(Jun 2024 – Aug 2024, Remote)*  
-- Automated recruitment operations with **Express.js** and **MongoDB**, creating dashboards for admins.  
-- Optimized NoSQL queries → **40% faster** data retrieval.  
-- Secured APIs with **JWT-based authentication**.  
+Cloud and Platform Engineer with 1 year of production experience across **AWS** and **Kubernetes**. I build Kubernetes infrastructure, CI/CD pipelines, GitOps deployments, and observability solutions using **Terraform, ArgoCD, Prometheus, and Grafana**. I focus on automating infrastructure, optimizing workloads, and improving production reliability through scalable cloud and DevOps practices.
 
----
+💼 **Currently:** Associate Software Engineer (Oct 2025 – Present)
 
-## 🚀 Projects  
+### 🧰 Hands-on Experience
 
-### [HLS Video Processing Pipeline](https://github.com/SHAKTHI-VEL/HLS-Video-Processing-Pipeline)  
-*Java, Python, Docker, AWS (S3, SQS, EC2, ECS)*  
-- Built a **scalable event-driven HLS video pipeline**.  
-- Automated encoding with a **Java consumer** triggering containerized **FFmpeg** jobs.  
-- Enhanced fault tolerance & system performance.  
+- **Infrastructure as Code:** Authored reusable Terraform blueprints for production EKS-based Agentic AI workloads, cutting environment provisioning time by **~70%** across multi-environment enterprise accounts.
+- **CI/CD & GitOps:** Built secure pipelines on Amazon EKS with ArgoCD blue-green deployments and container scanning, cutting release time by **25%**.
+- **Kubernetes Platforms:** Delivered **KubePilot**, an enterprise Kubernetes accelerator for cluster lifecycle management, observability, and cross-environment workload migration. Cut NetworkPolicy configuration by **50%** with reusable Go templates.
+- **Automation:** Provisioned **12 on-prem servers** into a Kubernetes cluster with Ansible for AI/ML workloads. Automated PostgreSQL backups to S3 and weekly ticket reporting using Python and cron.
+- **Migration & Reliability:** Migrated **80+ Docker containers** off an end-of-life OS with a seamless domain cutover and preserved runtime state. Managed and rotated SSL/TLS certificates across all internal platforms, eliminating expiry-related outages.
+- **AI / ML Platforms:** Built a Kubernetes-based local **RAG platform** with KServe, vLLM, LiteLLM, and quantized LLMs serving Llama 3.1B and Mistral.
 
 ---
 
-### [Shakti-News](https://github.com/SHAKTHI-VEL/SHAKTHI_NEWS)  
-*Flutter, Express.js, MongoDB, Redis*  
-- Developed a **mobile app** for offline newspaper subscriptions.  
-- Integrated **Bloc state management** for scalability & responsiveness.  
-- Boosted app performance by **6%** with Redis caching & MongoDB aggregation.  
+## 🛠️ Tech Stack
+
+| Area | Tools |
+|---|---|
+| **Cloud** | AWS (EKS, ECS, EC2, VPC, RDS, IAM, Bedrock), GCP (GKE, Compute Engine, VPC) |
+| **Containers & K8s** | Kubernetes, Helm, Docker, Podman, ArgoCD |
+| **IaC & Config Mgmt** | Terraform, CloudFormation, Ansible, SaltStack |
+| **CI/CD & DevSecOps** | GitHub Actions, GitLab CI, Azure DevOps, Jenkins, SonarQube, Trivy, Snyk |
+| **Observability** | Datadog, Prometheus, Grafana, New Relic, OpenTelemetry, Dynatrace |
+| **AI / ML Platforms** | Amazon Bedrock, LiteLLM, llama.cpp, vLLM, KServe, MLOps |
+| **Languages & OS** | Python (scripting), Shell, JavaScript, C++ \| Linux, Windows |
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### [Examace](https://github.com/SHAKTHI-VEL/Examace)  
-*Flutter, Flask, FAISS, LangChain, Supabase*  
-- Built a **RAG-powered learning app** for engineering students.  
-- Implemented **FAISS vector search** for semantic retrieval.  
-- Optimized LLM-based Q&A → faster, context-accurate answers.  
+## 📦 Featured Projects
+
+### 🔦 K8-Lighthouse
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/K8-Lighthouse)
+
+`Kubernetes` `Prometheus` `Amazon Bedrock` `Helm`
+
+- AI-assisted incident diagnostics that correlate logs, events, and container states, achieving a **30–50% reduction in troubleshooting time**.
+- Automates identification and contextualization of pod failures, deployment issues, and container-level incidents.
+- Ships with a **Helm chart** for one-command deployment of the full stack, including RBAC, ServiceAccount, Secrets, and Ingress.
+
+### 🎬 Event-Driven Streaming Video Processing Platform
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
+
+`AWS ECS` `ECR` `EC2` `SQS` `S3` `Python`
+
+- Event-driven **HLS video pipeline** on AWS processing **1,000+ daily uploads** with zero message loss.
+- Fault-tolerant asynchronous workflows using SQS and EC2 consumers, handling **10x traffic spikes** with ~99% processing reliability.
+- Containerized **FFmpeg** encoding on ECS, achieving a **60% reduction in processing time** and streaming-ready HLS outputs in S3.
 
 ---
 
-### [AquaTrace](https://play.google.com/store/apps/details?id=com.sidesshmore.aquatrace)  
-*Flutter, PostgreSQL, Express.js, Firebase*  
-- Mobile app to track & analyze **individual water footprint**.  
-- Gamified experience with a **leaderboard system**.  
-- 500+ downloads on Android Play Store. [[GitHub](https://github.com/sidesshmore/AquaTrace/commits/main?author=SHAKTHI-VEL)]  
+## 🏆 Certifications
+
+- ☁️ AWS Certified Solutions Architect – Associate (2026)
+- ☁️ Google Associate Cloud Engineer (2026)
+- 📊 Datadog APM & Distributed Tracing Fundamentals (2026)
 
 ---
 
-## 🏆 Achievements  
+## 🎓 Education
 
-- 🥉 **3rd place** in MLSC Coherence 1.0 Hackathon (AI/ML domain).  
-- ⭐ **3-star** on CodeChef (Peak rating: 1608, Top 20k globally).  
-- 📱 AquaTrace app successfully launched → 500+ downloads.  
-
----
-
-## 🤝 Volunteering  
-
-### [SIESGST ARENA – Problem Setter](https://drive.google.com/file/d/1llRwWYbp8iKX9VcPaBz9uK5yXbE14Uzq/view) *(Jul 2022 – Jun 2023)*  
-- Authored & tested **competitive programming problems**.  
-- Curated sets for **BUG4EVER & TuringCup** (national-level contests).  
-- Reviewed and validated problem statements & test cases.  
+**B.E. Artificial Intelligence & Data Science** — University of Mumbai, Mumbai
+CGPA: **9.02 / 10** | 2021 – 2025
 
 ---
 
-## 📚 Education  
+## 🤝 Let's Connect
 
-- 🎓 **B.E. in Artificial Intelligence & Data Science** — University of Mumbai *(2021–2025, CGPA: 9.02)*  
-- 📖 **HSC (81.67%)** — St. Anne’s Junior College, Mumbai  
-
----
-
-✨ Always curious about **system design, distributed systems, and AI applications**.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shakthivel2802)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakthivel28203@gmail.com)
