@@ -13,7 +13,6 @@
 
 Cloud and Platform Engineer with 1+ year of production experience building and running infrastructure on **AWS**, **GCP** and **Kubernetes** for enterprise clients. I deliver repeatable, secure, easy-to-operate platforms using **Terraform, GitOps with ArgoCD, policy-as-code (Kyverno, OPA)** and **Prometheus and Grafana** observability. I also run ML and LLM workloads on Kubernetes, from self-hosted inference to end-to-end MLOps pipelines, and work closely with client, development and data teams.
 
-💼 **Currently:** Associate Software Engineer @ Pibythree Consulting Services (Oct 2025 – Present)
 
 ### 🧰 Hands-on Experience
 
